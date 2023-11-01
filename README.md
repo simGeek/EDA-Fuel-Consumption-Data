@@ -65,12 +65,10 @@ Next, there were a lot of null values in each dataframe series. Either mean() or
 After removing the null values for all the columns, following five analysis were made:
 
 1 - A Pairplot with hue attribute as 'Fuel Type' and selected columns as 'Engine Size (L)','Cylinders','Fuel Consumption (L/100Km)','Hwy (L/100 km)','Comb (L/100 km)','Comb (mpg)','CO2 Emissions (g/km)','CO2 
-
 Rating','Smog Rating'.
 
 
 2 - Another Pairplot with hue attribute as 'Transmission' and selected columns as 'Engine Size (L)','Cylinders','Fuel Consumption (L/100Km)','Hwy (L/100 km)','Comb (L/100 km)','Comb (mpg)','CO2 Emissions 
-
 (g/km)','CO2 Rating','Smog Rating'.
 
 
