@@ -1,4 +1,4 @@
-# Fuel-Consumption-Dataset-EDA
+# -EDA-Fuel-Consumption-Datase
  
 The dataset is downloaded from Kaggle.com. It comprises the following 15 columns:
 
